@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    background-color: rgb(236, 238, 234);
+}
+
+img{
+    display: block;
+
+}
+
+strong{
+    display: block;
+    margin: 0px;
+}
+
+li{
+    margin: 0px;
+}
+
+
+a{
+    display: block;
+    margin: 5px;
+}
